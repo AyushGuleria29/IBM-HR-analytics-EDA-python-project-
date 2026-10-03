@@ -33,4 +33,4 @@ To run this notebook locally:
 1. Clone this repository:
 jupyter notebook "IBM_HR_Analytics_EDA_Project_(1).ipynb"
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/your-AyushGuleria29/IBM-HR-analytics-EDA-Python-project.git](https://github.com/AyushGuleria29/IBM-HR-analytics-EDA-python-project.git)
